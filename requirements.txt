@@ -10,3 +10,5 @@ streamlit
 langgraph-checkpoint-sqlite
 langchain-community
 ddgs
+langchain-mcp-adapters
+fastmcp
